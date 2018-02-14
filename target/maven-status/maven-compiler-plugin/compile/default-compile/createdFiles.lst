@@ -1,0 +1,4 @@
+com\gmopa\expense\impl\ExpenseServiceImpl.class
+com\gmopa\expense\service\model\ExpenseList.class
+com\gmopa\expense\service\ExpenseService.class
+com\gmopa\expense\service\model\Expense.class
